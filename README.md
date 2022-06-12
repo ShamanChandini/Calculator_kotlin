@@ -9,3 +9,5 @@ Most calculators can add, subtract, multiply, and divide numbers.
 ➗-Divide
 ❌-Multiplication
 Calculators allow students to work more quickly, which means they can solve more problems in a given time.
+Preview :
+![IMG_20220612_192410](https://user-images.githubusercontent.com/89247662/173236856-4a264d05-ef68-41c5-925e-8375b0b135fd.jpg)
