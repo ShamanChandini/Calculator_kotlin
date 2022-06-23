@@ -10,7 +10,7 @@ It comes with a keyboard and a small visual display to input numbers.
 
 Most calculators can add, subtract, multiply, and divide numbers.
 
-``
+```
 ➕-Add
 
 ➖-Subtract
@@ -18,7 +18,7 @@ Most calculators can add, subtract, multiply, and divide numbers.
 ➗-Divide
 
 ❌-Multiplication
-``
+```
 
 Calculators allow students to work more quickly, which means they can solve more problems in a given time.
 
